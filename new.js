@@ -371,7 +371,7 @@ let shoes =[
 
  let skirt = [
     {
-     Name:"Formal Knee Length Skirt Without Slit",
+     Name:"Formal Knee Length Skirt",
      image:"https://m.media-amazon.com/images/I/51rdoZ6wxsL._SY741_.jpg",
      Price:"999",
      offerPrice:"599",
@@ -389,13 +389,13 @@ let shoes =[
      offerPrice:"999",
     },
     {
-     Name:"Girl's Solid High Waist Flared Skater Short Mini Skirt",
+     Name:"Girl's Solid High Waist ",
      Image:"https://m.media-amazon.com/images/I/71leX1mIFOL._SY879_.jpg",
      Price:"799",
      offerPrice:"545",
     },
     {
-     Name:"Women Western Floral Printed Skirt",
+     Name:"Women Western Floral ",
      Image:"https://m.media-amazon.com/images/I/81tH8Y8zKHL._SY879_.jpg",
      Price:"1299",
      offerPrice:"799",
@@ -419,7 +419,7 @@ let shoes =[
      offerPrice:"799",
     },
     {
-     Name:"Rajvila Women's Cotton Printed 38 Inch Length",
+     Name:"Rajvila Women's Cotton ",
      Image:"https://m.media-amazon.com/images/I/81ASvmF0sVL._SX679_.jpg",
      Price:"1699",
      offerPrice:"1299",
@@ -436,6 +436,60 @@ let shoes =[
      Price:"2999",
      offerPrice:"2199",
     },
+    {
+        Name:"Janak",
+        Image:"https://m.media-amazon.com/images/I/61YDoP4KzkL._AC_UL640_QL65_.jpg",
+        Price:"1079",
+        offerPrice:"649",
+       },
+       {
+        Name:"ADDVERO",
+        Image:"https://m.media-amazon.com/images/I/61gk8Qp-WmL._AC_UL640_QL65_.jpg",
+        Price:"1479",
+        offerPrice:"649",
+       },
+       {
+        Name:"Mrugneni",
+        Image:"https://m.media-amazon.com/images/I/61bjuNu0EML._AC_UL640_QL65_.jpg",
+        Price:"1099",
+        offerPrice:"349",
+       },
+       {
+        Name:"Aurelia",
+        Image:"https://m.media-amazon.com/images/I/91EJGMcW7nL._AC_UL640_QL65_.jpg",
+        Price:"1999",
+        offerPrice:"740",
+       },
+       {
+        Name:"Studio Shringaar",
+        Image:"https://m.media-amazon.com/images/I/61JYBe-gaoL._AC_UL640_QL65_.jpg",
+        Price:"1499",
+        offerPrice:"699",
+       },
+       {
+        Name:"OOMPH!",
+        Image:"https://m.media-amazon.com/images/I/71Qw2yEM3rL._AC_UL640_QL65_.jpg",
+        Price:"1340",
+        offerPrice:"339",
+       },
+       {
+        Name:"Samjhi",
+        Image:"https://m.media-amazon.com/images/I/91DCM7LPfyL._AC_UL640_QL65_.jpg",
+        Price:"1599",
+        offerPrice:"650",
+       },
+       {
+        Name:"AASK",
+        Image:"https://m.media-amazon.com/images/I/61YmqnpqqRL._AC_UL640_QL65_.jpg",
+        Price:"1399",
+        offerPrice:"849",
+       },
+       {
+        Name:"DIAMO",
+        Image:"https://m.media-amazon.com/images/I/81VDes7365L._AC_UL640_QL65_.jpg",
+        Price:"1299",
+        offerPrice:"429",
+       },
 
  ]
 
@@ -500,6 +554,67 @@ let shoes =[
      price:"1689",
      offeredprice:"870",
     },
+    {
+        Name:"Glory Saree",
+        Image:"https://m.media-amazon.com/images/I/91iiBtClCnL._AC_UL640_QL65_.jpg",
+        price:"3999",
+        offeredprice:"699",
+       },
+       {
+        Name:"Yashika",
+        Image:"https://m.media-amazon.com/images/I/81YfAbiJCNL._AC_UL640_QL65_.jpg",
+        price:"1699",
+        offeredprice:"549",
+       },
+       {
+        Name:"SIRIL",
+        Image:"https://www.amazon.in/SIRIL-Womens-Floral-Printed-2108S237_Rose/dp/B09C8QG7BQ/ref=sr_1_3?crid=1UTHXW0WDOGEK&keywords=saree&qid=1699883727&s=apparel&sprefix=sare%2Cfashion%2C294&sr=1-3",
+        price:"2199",
+        offeredprice:"499",
+       },
+       {
+        Name:"Dhruvi Trends",
+        Image:"https://m.media-amazon.com/images/I/619cbp-6mAL._AC_UL640_QL65_.jpg",
+        price:"1499",
+        offeredprice:"349",
+       },
+       {
+        Name:"Leeza Store",
+        Image:"https://m.media-amazon.com/images/I/71r2-C5Vk1L._AC_UL640_QL65_.jpg",
+        price:"2999",
+        offeredprice:"599",
+       },
+       {
+        Name:"Yashika",
+        Image:"https://m.media-amazon.com/images/I/91Utl0DCCBL._AC_UL640_QL65_.jpg",
+        price:"1099",
+        offeredprice:"249",
+       },
+       {
+        Name:"Mirchi Fashion",
+        Image:"https://m.media-amazon.com/images/I/91dmF4kQykL._AC_UL640_QL65_.jpg",
+        price:"2799",
+        offeredprice:"599",
+       },
+       {
+        Name:"Satrani",
+        Image:"https://m.media-amazon.com/images/I/710ppwP6VOL._AC_UL640_QL65_.jpg",
+        price:"1049",
+        offeredprice:"299",
+       },
+       {
+        Name:"Avantika Fashion",
+        Image:"https://m.media-amazon.com/images/I/51bvr+2O4EL._AC_UL640_QL65_.jpg",
+        price:"3999",
+        offeredprice:"449",
+       },
+       {
+        Name:"Winza Designer",
+        Image:"https://m.media-amazon.com/images/I/A1W38DLbLcL._AC_UL640_QL65_.jpg",
+        price:"2479",
+        offeredprice:"349",
+       },
+    
 
  ]
 
@@ -1003,7 +1118,7 @@ let shoes =[
 
         let fridge =[
             {
-              name: "LG 185 L 5 Star Inverter Direct-Cool Single Door Refrigerator (GL-D201ABPU, Blue Plumeria, Fast Ice Making, Base stand with drawer)",
+              name: "LG 185 L 5 Star Inverter Direct-Cool Single Door Refrigerator ",
              image:"https://m.media-amazon.com/images/I/61Fc4qfedbL._AC_UY436_QL65_.jpg",
              price:"22,199",
              offerPrice:"16,990",
@@ -1198,7 +1313,7 @@ let shoes =[
                offerPrice:"699",
               }, 
               {
-                name: "FUNDAY FASHION Women's Regular Fit Denim Joggers",
+                name: "FUNDAY FASHION Women's Denim Joggers",
                image:"https://m.media-amazon.com/images/I/61P1XahDV8L._AC_UL640_QL65_.jpg",
                price:"1299",
                offerPrice:"462",
@@ -1234,15 +1349,347 @@ let shoes =[
                offerPrice:"649",
               }, 
               {
-                name: "ADBUCKS Women's Loose Fit Jeggings (W_Jegg_Blue_36)",
+                name: "ADBUCKS Women's",
                image:"https://m.media-amazon.com/images/I/51fysvEhmqL._AC_UL640_QL65_.jpg",
                price:"1499",
                offerPrice:"669",
               }, 
               {
-                name: "INKD Women's Buttersoft Mid-Rise Skinny Fit Jeans- Stretchable",
+                name: "INKD Women's ",
                image:"https://m.media-amazon.com/images/I/514kFiRweEL._AC_UL640_QL65_.jpg",
                price:"2499",
                offerPrice:"699",
               }, 
         ]
+
+        let washing_machine =[
+            {
+                name: "LG 9kg 5 star",
+               image:"https://m.media-amazon.com/images/I/71SH3z4sKZL._AC_UY436_QL65_.jpg",
+               price:"56,999",
+               offerPrice:"39,990",
+              },
+              {
+                name: "NU 7kg Automatic",
+               image:"https://m.media-amazon.com/images/I/718xEzaQdaL._AC_UY436_QL65_.jpg",
+               price:"12,999",
+               offerPrice:"7,999",
+              },
+              {
+                name: "LG 10kg 5 Star Turbo",
+               image:"https://m.media-amazon.com/images/I/71Tj8QIhWxL._AC_UY436_QL65_.jpg",
+               price:"36,999",
+               offerPrice:"26,999",
+              },
+              {
+                name: "Whirlpool 8.5kg Semi-Auto",
+               image:"https://m.media-amazon.com/images/I/61Kza5qsMBL._AC_UY436_QL65_.jpg",
+               price:"18,499",
+               offerPrice:"13,690",
+              },
+              {
+                name: "Samsung 7kg Full Auto",
+               image:"https://m.media-amazon.com/images/I/61gbJJMLLEL._AC_UY436_QL65_.jpg",
+               price:"221,000",
+               offerPrice:"15,490",
+              },
+              {
+                name: "Samsung 7kg Top Load",
+               image:"https://m.media-amazon.com/images/I/61QJpARvgRL._AC_UY436_QL65_.jpg",
+               price:"22,500",
+               offerPrice:"17,590",
+              },
+              {
+                name: "Samsung 6kg Semi-Auto",
+               image:"https://m.media-amazon.com/images/I/71mzaEeE2vL._AC_UY436_QL65_.jpg",
+               price:"",
+               offerPrice:"",
+              },
+              {
+                name: "Bosch WAJ2846W",
+               image:"https://m.media-amazon.com/images/I/71jrfeoos7L._AC_UY436_QL65_.jpg",
+               price:"49,190",
+               offerPrice:"34,740",
+              },
+              {
+                name: "IFB 7kg Star Top Load",
+               image:"https://m.media-amazon.com/images/I/61aEf-fgerL._AC_UY436_QL65_.jpg",
+               price:"",
+               offerPrice:"",
+              },
+              {
+                name: "IFB 6kg Star AI",
+               image:"https://m.media-amazon.com/images/I/61yvbripxsL._AC_UY436_QL65_.jpg",
+               price:"29,990",
+               offerPrice:"23,990",
+              },
+              {
+                name: "Samsung 8kg 5 star AI",
+               image:"https://m.media-amazon.com/images/I/71ZMYMhP5TL._AC_UY436_QL65_.jpg",
+               price:"51,880",
+               offerPrice:"34,990",
+              },
+              {
+                name: "Panasonic 6kg Fully Auto",
+               image:"https://m.media-amazon.com/images/I/51uVzVsKuZL._AC_UY436_QL65_.jpg",
+               price:"20,000",
+               offerPrice:"12,990",
+              },
+              {
+                name: "IFB 8kg 5 star AI ",
+               image:"https://m.media-amazon.com/images/I/61NKTaX5pPL._AC_UY436_QL65_.jpg",
+               price:"48,990",
+               offerPrice:"35,990",
+              },
+              {
+                name: "Acer 8kg Halo Wash",
+               image:"https://m.media-amazon.com/images/I/61OJwWNw8eL._AC_UY436_QL65_.jpg",
+               price:"38,999",
+               offerPrice:"15,990",
+              },
+              {
+                name: "Haier 6kg Fully Auto",
+               image:"https://m.media-amazon.com/images/I/51zNGmliPiL._AC_UY436_QL65_.jpg",
+               price:"22,990",
+               offerPrice:"12,290",
+              },
+              {
+                name: "Whirlpool 11kg Semi Auto",
+               image:"https://m.media-amazon.com/images/I/61hjKhRnqlL._AC_UY436_QL65_.jpg",
+               price:"22,990",
+               offerPrice:"15,990",
+              },
+              {
+                name: "Godrej EDGE Ultima",
+               image:"https://m.media-amazon.com/images/I/61vP1X59DaL._AC_UY436_QL65_.jpg",
+               price:"23,500",
+               offerPrice:"15,450",
+              },
+              {
+                name: "IFB 6.5kg Top Load",
+               image:"https://m.media-amazon.com/images/I/61CH5bFxAlL._AC_UY436_QL65_.jpg",
+               price:"",
+               offerPrice:"",
+              },
+              {
+                name: "Samsung 10kg Star WiFi",
+               image:"https://m.media-amazon.com/images/I/61TNmLaGiIL._AC_UY436_QL65_.jpg",
+               price:"32,500",
+               offerPrice:"24,390",
+              },
+              {
+                name: "Voltas beko 7kg",
+               image:"https://m.media-amazon.com/images/I/71v40Bw9kbL._AC_UY436_QL65_.jpg",
+               price:"28,990",
+               offerPrice:"13,990",
+              },
+        ]
+
+        let TV =[
+            {
+                image:"https://m.media-amazon.com/images/I/81XljYpPtGL._AC_UY218_.jpg",
+                name: "Nu 109 cm (43 inch) ",
+                price:"25000",
+                offerPrice:"21000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/71Ey2FZp4tL._AC_UY218_.jpg",
+                name: "MI 125 cm (50 inches)(Black)",
+                price:"37000",
+                offerPrice:"33000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/71Dkc-5hX1L._AC_UY218_.jpg",
+                name: "MI 80 cm  (Black)",
+                price:"11500",
+                offerPrice:"10000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/819Lw2PE8tL._AC_UY218_.jpg",
+                name: "Redmi 80 cm(Black)",
+                price:"10500",
+                offerPrice:"8500",
+               },  {
+                image:"https://m.media-amazon.com/images/I/819SRH2DKBL._AC_UY218_.jpg",
+                name: "OnePlus 108 cm (Black)",
+                price:"25000",
+                offerPrice:"22000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/71VHchc4T4L._AC_UY218_.jpg",
+                name: "LG 80 cm (Black)",
+                price:"15000",
+                offerPrice:"12000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/81qx8YtutXL._AC_UY218_.jpg",
+                name: "Sony Bravia 139 cm (Black)",
+                price:"53000",
+                offerPrice:"49000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/41OV8MNY3IL._AC_UY218_.jpg",
+                name: "VISE  140 cm ",
+                price:"45000",
+                offerPrice:"41000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/71RxCmvnrbL._AC_UY218_.jpg",
+                name: "Samsung 80 cm(Glossy Black)",
+                price:"14000",
+                offerPrice:"11000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/710a8lTyPnL._AC_UY218_.jpg",
+                name: "MI 138 cm (Black)",
+                price:"37000",
+                offerPrice:"33000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/61sDDAOUzSL._AC_UY218_.jpg",
+                name: "Kodak 108 cm (Black)",
+                price:"16000",
+                offerPrice:"13500",
+               },  {
+                image:"https://m.media-amazon.com/images/I/71EGuVJ2oDL._AC_UY218_.jpg",
+                name: "Sony Bravia 108 cm (Black)",
+                price:"41000",
+                offerPrice:"36500",
+               },  {
+                image:"https://m.media-amazon.com/images/I/7192ztv+rNL._AC_UY218_.jpg",
+                name: "Acer 127 cm (Black)",
+                price:"34000",
+                offerPrice:"31000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/91zvwernn+L._AC_UY218_.jpg",
+                name: "TOSHIBA 108 cm (Black)",
+                price:"19000",
+                offerPrice:"16500",
+               },  {
+                image:"https://m.media-amazon.com/images/I/81qx8YtutXL._AC_UY218_.jpg",
+                name: "Sony Bravia 108 cm (Black)",
+                price:"39500",
+                offerPrice:"35000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/71rZkA9SfML._AC_UY218_.jpg",
+                name: "MI 138 cm (Black)",
+                price:"45000",
+                offerPrice:"41500",
+               },  {
+                image:"https://m.media-amazon.com/images/I/71njEHrIybL._AC_UY218_.jpg",
+                name: "Redmi 164 cm (Black)",
+                price:"58000",
+                offerPrice:"55000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/71EJ1D+NxnL._AC_UY218_.jpg",
+                name: "TCL 189.5 cm (Black)",
+                price:"69990",
+                offerPrice:"65000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/81Z9zGZ0zBL._AC_UY218_.jpg",
+                name: "Hisense 164 cm (Dark Grey) ",
+                price:"58000",
+                offerPrice:"55000",
+               },  {
+                image:"https://m.media-amazon.com/images/I/71S8qt+K8hL._AC_UY218_.jpg",
+                name: "Samsung 163 cm (Black)",
+                price:"65990",
+                offerPrice:"60000",
+               }, 
+            
+            ]
+
+            let AC =[
+                {
+                    image:"https://m.media-amazon.com/images/I/41TuyxwZ9mL._AC_UY218_.jpg",
+                    name: "Voltas 1.4 Ton 3 Star Inverter Split AC",
+                    price:"30000",
+                    offerPrice:"25000",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/51JFb7FctDL._AC_UY218_.jpg",
+                    name: "LG 1 Ton 4 Star AI DUAL Inverter Split AC ",
+                    price:"34990",
+                    offerPrice:"31000",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/61VC4kJtDAL._AC_UY218_.jpg",
+                    name: "Daikin 0.8 Ton 3 Star",
+                    price:"24990",
+                    offerPrice:"20500",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/41lrtqXPiWL._AC_UY218_.jpg",
+                    name: "Carrier 1.5 Ton 4 Star AI Flexicool",
+                    price:"34990",
+                    offerPrice:"31500",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/61Y1T1q5crL._AC_UY218_.jpg",
+                    name: "Daikin 1.5 Ton 3 Star",
+                    price:"37990",
+                    offerPrice:"34500",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/51sTXvsanQL._AC_UY218_.jpg",
+                    name: "Carrier 1.5 Ton 3 Star AI ",
+                    price:"31990",
+                    offerPrice:"27500",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/51yCJDngeLL._AC_UY218_.jpg",
+                    name: "LG 1.5 Ton 5 Star VIRAAT",
+                    price:"43490",
+                    offerPrice:"40000",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/61hQvWQiYAL._AC_UY218_.jpg",
+                    name: "Lloyd 1.5 Ton 3 Star Inverter Split AC ",
+                    price:"33990",
+                    offerPrice:"30000",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/61ZzcguzB1L._AC_UY218_.jpg",
+                    name: "Panasonic 1.5 Ton 5 Star Wi-Fi ",
+                    price:"44490",
+                    offerPrice:"41500",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/51gkbLRpxtL._AC_UY218_.jpg",
+                    name: "Godrej 1.5 Ton 3 Star",
+                    price:"31490",
+                    offerPrice:"26000",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/41LlSc9YsnL._AC_UY218_.jpg",
+                    name: "Voltas 1 Ton 3 Star",
+                    price:"28999",
+                    offerPrice:"25999",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/61PWjQFDtQL._AC_UY218_.jpg",
+                    name: "Panasonic 1.5 Ton ",
+                    price:"36490",
+                    offerPrice:"31500",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/51JFb7FctDL._AC_UY218_.jpg",
+                    name: "LG 1.5 Ton 5 Star AI DUAL Inverter Split AC ",
+                    price:"43490",
+                    offerPrice:"39450",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/518szMqoI5L._AC_UY218_.jpg",
+                    name: "Haier 1.5 Ton 3 Star Inverter Split AC ",
+                    price:"32490",
+                    offerPrice:"29500",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/51XI2FLjJ4L._AC_UY218_.jpg",
+                    name: "Samsung 1.5 Ton 5 Star Inverter Split AC ",
+                    price:"42490",
+                    offerPrice:"38490",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/31uXFF2wVNL._AC_UY218_.jpg",
+                    name: "Voltas 1 Ph Rot.(2 Ton White)",
+                    price:"77890",
+                    offerPrice:"74000",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/41H61ZFlBHL._AC_UY218_.jpg",
+                    name: "Daikin 2.02 Ton 3 Star",
+                    price:"60990",
+                    offerPrice:"55990",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/61W+U7VzqHL._AC_UY218_.jpg",
+                    name: "1.5 Ton DC Solar Air Conditioner ",
+                    price:"180000",
+                    offerPrice:"155000",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/61lTN0lYAgL._AC_UY218_.jpg",
+                    name: "O General 2 Ton (Copper Condenser, ASGG24CGTB-B, White)",
+                    price:"76950",
+                    offerPrice:"72950",
+                   }, {
+                    image:"https://m.media-amazon.com/images/I/31lyjrJOXsL._AC_UY218_.jpg",
+                    name: "Voltas 3Ph (4 Ton White)",
+                    price:"128800",
+                    offerPrice:"115000",
+                   },
+                  ]
