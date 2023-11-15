@@ -1,121 +1,140 @@
 let shirt =[
     {
      image:"https://m.media-amazon.com/images/I/719gKQS4doL._AC_UL640_QL65_.jpg",
-     name:"",
+     name:"Monte Carlo",
      price:"1799",
      offerPrice:"569",
 
     },
     {
         image:"https://m.media-amazon.com/images/I/71mGhk13xYL._AC_UL640_QL65_.jpg",
+        name:"Lymio",
         price:"1499",
         offerPrice:"499",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/81SynkuTdiL._AC_UL640_QL65_.jpg",
+        name:"Allen Solly",
         price:"1599",
         offerPrice:"699",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/71wDwvFKrxL._AC_UL640_QL65_.jpg",
+        name:"DHRUVI TRENDZ",
         price:"2099",
         offerPrice:"399",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/81-JAkrN1sL._AC_UL640_QL65_.jpg",
+        name:"Peter England",
         price:"1799",
         offerPrice:"593",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/713elmsvGxL._AC_UL640_QL65_.jpg",
+        name:"INKAST",
         price:"1499",
         offerPrice:"519",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/71PU6aeNj-L._AC_UL640_QL65_.jpg",
+        name:"Indo Primo",
         price:"2199",
         offerPrice:"669",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/71rzKMArJZL._AC_UL640_QL65_.jpg",
+        name:"Be Active",
         price:"1199",
         offerPrice:"369",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/81XbXTOcuZL._AC_UL640_QL65_.jpg",
+        name:"Majestic Man",
         price:"1299",
         offerPrice:"149",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/71qfMZpYoCL._AC_UL640_QL65_.jpg",
+        name:"U-TURN",
         price:"999",
         offerPrice:"399",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/81r9ntAzoPL._AC_UL640_QL65_.jpg",
+        name:"GLORYBOYZ",
         price:"1299",
         offerPrice:"149",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/71K-Sq54cUL._AC_UL640_QL65_.jpg",
+        name:"Van Heusen",
         price:"799",
         offerPrice:"249",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/816hFhJSnFL._AC_UL640_QL65_.jpg",
+        name:"Look Mark",
         price:"2198",
         offerPrice:"498",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/71JFYy6VDUL._AC_UL640_QL65_.jpg",
+        name:"Van Heusen",
         price:"1099",
         offerPrice:"399",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/71YkSSLzCmL._AC_UL640_QL65_.jpg",
+        name:"Leriya Fashion",
         price:"1499",
         offerPrice:"499",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/81MMOYv4fxL._AC_UL640_QL65_.jpg",
+        name:"Indo Primo",
         price:"1199",
         offerPrice:"299",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/81SJxjDDwuL._AC_UL640_QL65_.jpg",
+        name:"Diverse",
         price:"1099",
         offerPrice:"399",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/71FpLGZsTmL._AC_UL640_QL65_.jpg",
+        name:"Symbol",
         price:"1299",
         offerPrice:"309",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/81D69UzO1QL._AC_UL640_QL65_.jpg",
+        name:"US Polo",
         price:"1099",
         offerPrice:"259",
    
        },
        {
         image:"https://m.media-amazon.com/images/I/91awjEQ7nVL._AC_UL640_QL65_.jpg",
+        name:"Dennis Lingo",
         price:"2499",
         offerPrice:"269",
    
@@ -1058,61 +1077,121 @@ let shoes =[
          image:"https://m.media-amazon.com/images/I/717-WaIUi9L._SY879_.jpg",
          price:"1198",
          offerPrice:"678",
-         name: "Symbol Men Dress Pants",
+         name: "Symbol Men ",
         }, 
         {
             image:"https://m.media-amazon.com/images/I/61Jh7DzR8sL._SY879_.jpg",
             price:"2398",
             offerPrice:"978",
-            name: "Symbol Men Dress Pants",
+            name: "Symbol Men",
            },
            {
-            image:"https://m.media-amazon.com/images/I/61c0YM3aMPL._SY741_.jpg",
+            image:"https://m.media-amazon.com/images/I/61kR5YNmm9S._AC_UL640_QL65_.jpg",
             price:"4598",
             offerPrice:"1178",
-            name: "Aahwan Women's & Girls' Solid High Waist with Pockets Cargo Pants",
+            name: "MANCREW",
            },
            {
-            image:"https://m.media-amazon.com/images/I/51jXgsSM6SL._SY741_.jpg",
-            price:"2398",
+            image:"https://m.media-amazon.com/images/I/51UNoIauBUL._AC_UL640_QL65_.jpg",
+            price:"1,499",
             offerPrice:"678",
-            name: "KOTTY Women Polyester Blend Green Solid Trousers",
+            name: "Dennis Lingo",
            },
            {
-            image:"https://m.media-amazon.com/images/I/61r+ZK+jPtL._SX679_.jpg",
+            image:"https://m.media-amazon.com/images/I/71FJCcPxkJL._AC_UL640_QL65_.jpg",
             price:"3498",
             offerPrice:"978",
-            name: "ADDYVERO Women's Slim Fit Casual Trousers",
+            name: "Levi's",
            },
            {
             image:"https://m.media-amazon.com/images/I/41xLvBm35sL._SX679_.jpg",
             price:"2998",
             offerPrice:"878",
-            name: "JUGULAR Men's Polyester Solid Men Stylish Cargo Track Pants",
+            name: "JUGULAR ",
            },
            {
-            image:"https://m.media-amazon.com/images/I/61mp12NqMsL._SY741_.jpg",
+            image:"https://m.media-amazon.com/images/I/81C28eSlqbL._AC_UL640_QL65_.jpg",
             price:"3998",
             offerPrice:"778",
-            name: "J B Fashion Track Pant for Men || Track Pants || Lycra Full Elastic Jogger Track Pant (A-TP-01-04)",
+            name: "FYLTR",
            },
            {
             image:"https://m.media-amazon.com/images/I/61cgpCE7mML._SX679_.jpg",
             price:"4698",
             offerPrice:"978",
-            name: "MALENO Slim Fit Men Cotton Blend Formal Trouser",
+            name: "MALENO Slim Fit ",
            },
            {
-            image:"https://m.media-amazon.com/images/I/61jfBIZmcmL._SY741_.jpg",
+            image:"https://m.media-amazon.com/images/I/518GkzXHRgL._AC_UL640_QL65_.jpg",
             price:"1998",
             offerPrice:"878",
-            name: "KOTTY Women Regular Length Solid Trousers",
+            name: "KOTTY",
            },
            {
             image:"https://m.media-amazon.com/images/I/61BUTnhvIFL._SX679_.jpg",
             price:"2798",
             offerPrice:"978",
-            name: "T2F Girl's Regular Fit Track Pants",
+            name: "Urban Fashion",
+           },
+           {
+            image:"https://m.media-amazon.com/images/I/71J5v1vrKaL._AC_UL640_QL65_.jpg",
+            price:"2,600",
+            offerPrice:"750",
+            name: "Dennis Lingo",
+           },
+           {
+            image:"https://m.media-amazon.com/images/I/61e0ta9X9zL._AC_UL640_QL65_.jpg",
+            price:"2,499",
+            offerPrice:"899",
+            name: "Symbol",
+           },
+           {
+            image:"https://m.media-amazon.com/images/I/51sVRXEgNSL._AC_UL640_QL65_.jpg",
+            price:"711",
+            offerPrice:"209",
+            name: "Selvia",
+           },
+           {
+            image:"https://m.media-amazon.com/images/I/419jZUm+noL._AC_UL640_QL65_.jpg",
+            price:"995",
+            offerPrice:"199",
+            name: "LookMark",
+           },
+           {
+            image:"https://m.media-amazon.com/images/I/61icImM0zgL._AC_UL640_QL65_.jpg",
+            price:"2,399",
+            offerPrice:"599",
+            name: "KARGEENS",
+           },
+           {
+            image:"https://m.media-amazon.com/images/I/61cgpCE7mML._AC_UL640_QL65_.jpg",
+            price:"1,699",
+            offerPrice:"429",
+            name: "MALENO",
+           },
+           {
+            image:"https://m.media-amazon.com/images/I/511Z+NOB06L._AC_UL640_QL65_.jpg",
+            price:"2,599",
+            offerPrice:"499",
+            name: "TOPLOT",
+           },
+           {
+            image:"https://m.media-amazon.com/images/I/51nvSVBCSGL._AC_UL640_QL65_.jpg",
+            price:"2,199",
+            offerPrice:"1,128",
+            name: "Van Heusen",
+           },
+           {
+            image:"https://m.media-amazon.com/images/I/61zfcpzZaZL._AC_UL640_QL65_.jpg",
+            price:"1,449",
+            offerPrice:"495",
+            name: "KEDY",
+           },
+           {
+            image:"https://m.media-amazon.com/images/I/8107q7wtOvL._AC_UL640_QL65_.jpg",
+            price:"2,499",
+            offerPrice:"899",
+            name: "McHENRY",
            },
         ]
 
@@ -1468,8 +1547,8 @@ let shoes =[
               {
                 name: "IFB 6.5kg Top Load",
                image:"https://m.media-amazon.com/images/I/61CH5bFxAlL._AC_UY436_QL65_.jpg",
-               price:"",
-               offerPrice:"",
+               price:"39,990",
+               offerPrice:"26,990",
               },
               {
                 name: "Samsung 10kg Star WiFi",
